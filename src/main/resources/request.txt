@@ -1,0 +1,15 @@
+{
+	"patient":{
+    	"name":"Bandar",
+      "email":"bandar@gmail/com",
+      "gender":"male",
+      "age": 30,
+      "address":"KSA"
+    },
+  "appointment":{
+  	"appointmentDate":"10/10/2022",
+    "doctorName":"saud",
+    "disease":"flow",
+    "promoCode":"BB"
+  }
+}
